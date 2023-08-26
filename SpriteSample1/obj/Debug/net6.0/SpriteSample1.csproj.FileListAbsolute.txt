@@ -1,0 +1,173 @@
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\bin\Debug\net6.0\appsettings.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.exe
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.deps.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.runtimeconfig.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.pdb
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.AssemblyReference.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.AssemblyInfoInputs.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.AssemblyInfo.cs
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.CoreCompileInputs.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.SpriteSample1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.build.SpriteSample1.props
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SpriteSample1.props
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SpriteSample1.props
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\scopedcss\bundle\SpriteSample1.styles.css
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.CopyComplete
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\refint\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.pdb
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.genruntimeconfig.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\obj\Debug\net6.0\ref\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\EE Documents\Practice\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\appsettings.json
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.exe
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.deps.json
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.runtimeconfig.json
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.dll
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.pdb
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.AssemblyReference.cache
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.AssemblyInfoInputs.cache
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.AssemblyInfo.cs
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.CoreCompileInputs.cache
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.SpriteSample1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.build.SpriteSample1.props
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SpriteSample1.props
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SpriteSample1.props
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\scopedcss\bundle\SpriteSample1.styles.css
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.CopyComplete
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.dll
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\refint\SpriteSample1.dll
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.pdb
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.genruntimeconfig.cache
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\ref\SpriteSample1.dll
+C:\Users\Kartik.Gadgi\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Results\ImageListJson.json
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\appsettings.json
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Results\ImageListJson.json
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.exe
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.deps.json
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.runtimeconfig.json
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.pdb
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.AssemblyReference.cache
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.AssemblyInfoInputs.cache
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.AssemblyInfo.cs
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.CoreCompileInputs.cache
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.SpriteSample1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.build.SpriteSample1.props
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SpriteSample1.props
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SpriteSample1.props
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\scopedcss\bundle\SpriteSample1.styles.css
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.CopyComplete
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\refint\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.pdb
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.genruntimeconfig.cache
+C:\Users\Ndinesh.Kumar\Downloads\SpriteSample1\SpriteSample1\SpriteSample1\SpriteSample1\obj\Debug\net6.0\ref\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\bin\Debug\net6.0\appsettings.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.exe
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.deps.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.runtimeconfig.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\bin\Debug\net6.0\SpriteSample1.pdb
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.AssemblyReference.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.AssemblyInfoInputs.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.AssemblyInfo.cs
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.CoreCompileInputs.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.SpriteSample1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.build.SpriteSample1.props
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SpriteSample1.props
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SpriteSample1.props
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\scopedcss\bundle\SpriteSample1.styles.css
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.CopyComplete
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\refint\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.pdb
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\SpriteSample1.genruntimeconfig.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\SpriteSample1\obj\Debug\net6.0\ref\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\appsettings.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\Results\ImageListJson.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\SpriteSample1.exe
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\SpriteSample1.deps.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\SpriteSample1.runtimeconfig.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\SpriteSample1.pdb
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.AssemblyReference.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\SpriteSample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\SpriteSample1.AssemblyInfoInputs.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\SpriteSample1.AssemblyInfo.cs
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.CoreCompileInputs.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\SpriteSample1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\SpriteSample1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.SpriteSample1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.build.SpriteSample1.props
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SpriteSample1.props
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SpriteSample1.props
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\scopedcss\bundle\SpriteSample1.styles.css
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\SpriteSample1.csproj.CopyComplete
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\refint\SpriteSample1.dll
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\SpriteSample1.pdb
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\SpriteSample1.genruntimeconfig.cache
+C:\Users\Ndinesh.Kumar\OneDrive - Energy Exemplar Pty Ltd\Desktop\SpriteSample1\source\SpriteSample1\obj\Debug\net6.0\ref\SpriteSample1.dll

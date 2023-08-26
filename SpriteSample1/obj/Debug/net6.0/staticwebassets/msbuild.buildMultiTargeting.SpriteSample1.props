@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SpriteSample1.props" />
+</Project>
