@@ -1,6 +1,6 @@
 ﻿namespace SpriteSample1.Contracts
 {
-    // class for the ImageList1
+    // class for the ImageList
     public class ImageList
     {
         public string Id { get; set; }
